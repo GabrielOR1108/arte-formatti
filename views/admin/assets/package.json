@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha3",
+    "bootstrap-icons": "^1.10.4",
+    "cropperjs": "^1.5.13",
+    "datatables.net-bs5": "^1.13.4",
+    "datatables.net-buttons-bs5": "^2.3.6",
+    "datatables.net-responsive-bs5": "^2.4.1",
+    "datatables.net-select-bs5": "^1.6.2",
+    "jquery": "^3.6.4",
+    "jszip": "^3.10.1",
+    "pdfmake": "^0.2.7",
+    "sweetalert2": "^11.4.17"
+  }
+}
